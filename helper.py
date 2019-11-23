@@ -1,14 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  3 01:36:01 2018
 
-@author: Iswariya Manivannan
-"""
-
-# import sys
-# import os
-# import time
+import sys
+import os
 import collections
 import string
 import copy

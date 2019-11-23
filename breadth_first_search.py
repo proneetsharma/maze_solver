@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 27 21:15:04 2018
 
-@author: Iswariya Manivannan
-"""
 import sys
 import os
 import collections
